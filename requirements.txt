@@ -1,0 +1,7 @@
+pandas
+numpy
+nba_api
+streamlit
+scikit-learn
+matplotlib
+python-dotenv
