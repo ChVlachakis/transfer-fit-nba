@@ -6,3 +6,14 @@ data/raw/
 data/processed/
 
 __pycache__/
+
+# --- local data artifacts ---
+data/processed/
+data/app/
+data/raw/
+*.csv
+
+# --- python ---
+__pycache__/
+.ipynb_checkpoints/
+.venv/
